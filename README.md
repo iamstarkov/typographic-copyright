@@ -26,17 +26,9 @@ var copyright = require('typographic-copyright');
 copyright(`(c) 2013 MegaCorp`); // © 2013 MegaCorp
 ```
 
-
-## Real world examples
-
-Check complex usage with real world examples in [typographic playground][playground].
-
-[playground]: https://github.com/matmuchrapna/typographic-playground
-
-
 ## License
 
-MIT © [Vladimir Starkov](http://vstarkov.com/)
+MIT © [Vladimir Starkov](https://iamstarkov.com/)
 
 [rtfm]: http://practicaltypography.com/trademark-and-copyright-symbols.html
 [habits]: http://practicaltypography.com/typewriter-habits.html
@@ -44,14 +36,14 @@ MIT © [Vladimir Starkov](http://vstarkov.com/)
 [npm-url]: https://npmjs.org/package/typographic-copyright
 [npm-image]: http://img.shields.io/npm/v/typographic-copyright.svg
 
-[travis-url]: https://travis-ci.org/matmuchrapna/typographic-copyright
-[travis-image]: http://img.shields.io/travis/matmuchrapna/typographic-copyright.svg
+[travis-url]: https://travis-ci.org/iamstarkov/typographic-copyright
+[travis-image]: http://img.shields.io/travis/iamstarkov/typographic-copyright.svg
 
-[coveralls-url]: https://coveralls.io/r/matmuchrapna/typographic-copyright
-[coveralls-image]: http://img.shields.io/coveralls/matmuchrapna/typographic-copyright.svg
+[coveralls-url]: https://coveralls.io/r/iamstarkov/typographic-copyright
+[coveralls-image]: http://img.shields.io/coveralls/iamstarkov/typographic-copyright.svg
 
-[depstat-url]: https://david-dm.org/matmuchrapna/typographic-copyright
-[depstat-image]: https://david-dm.org/matmuchrapna/typographic-copyright.svg
+[depstat-url]: https://david-dm.org/iamstarkov/typographic-copyright
+[depstat-image]: https://david-dm.org/iamstarkov/typographic-copyright.svg
 
-[depstat-dev-url]: https://david-dm.org/matmuchrapna/typographic-copyright
-[depstat-dev-image]: https://david-dm.org/matmuchrapna/typographic-copyright/dev-status.svg
+[depstat-dev-url]: https://david-dm.org/iamstarkov/typographic-copyright
+[depstat-dev-image]: https://david-dm.org/iamstarkov/typographic-copyright/dev-status.svg
